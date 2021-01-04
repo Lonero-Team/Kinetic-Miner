@@ -3,6 +3,10 @@
 
 ### Installation
 **Run the Lonero Daemon Locally:** \
+``gh repo clone Lonero-Team/Lonero-Beta`` \
+OR ``git clone https://github.com/Lonero-Team/Lonero-Beta.git`` \
+``cd Lonero-Beta`` \
+``./forknoted --config-file configs/lonero.conf`` \
 **Run the GUI Wallet:** \
 OR \
 **Create or Connect to a Pool:** 
