@@ -9,7 +9,7 @@ OR \
 **Create or Connect to a Pool:** 
 
 ## Setup Hardware
-**Flash Microcontroller:** For *Chip*, see documentation [here](http://www.chip-community.org/index.php/Documentation)
+**Flash Microcontroller:** For *Chip*, see documentation [here](http://www.chip-community.org/index.php/Documentation) \
 **Node Connectivity:**
 
 ![KineticMiner](https://raw.githubusercontent.com/Mentors4EDU/Images/master/Kinetic.png)
