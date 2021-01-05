@@ -20,7 +20,7 @@ $ cd Lonero-Wallet-2.0/
 $ make -j 8
 ```
 OR \
-**Create or Connect to a Pool:** 
+**Create or Connect to a Pool:** I recommend that you follow the guide [here](https://github.com/Lonero-Team/LNR-Mining-Pool) or run a pool locally and connect to stratum. Ultimately, you can also connect to a remote node.
 
 ## Setup Hardware
 **Flash Microcontroller:** For *Chip*, see documentation [here](http://www.chip-community.org/index.php/Documentation) \
