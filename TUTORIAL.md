@@ -7,7 +7,18 @@
 OR ``git clone https://github.com/Lonero-Team/Lonero-Beta.git`` \
 ``cd Lonero-Beta`` \
 ``./forknoted --config-file configs/lonero.conf`` \
-**Run the GUI Wallet:** \
+**Run the GUI Wallet:**
+```bash
+$ apt-get update
+$ apt-get upgrade
+$ apt-get install qtbase5-dev libssl-dev cmake git libboost1.58-all-dev build-essential g++
+$ git clone https://github.com/Lonero-Team/Lonero-Wallet-2.0
+$ cd Lonero-Wallet-2.0/
+$ cmake CMakeLists.txt
+$ make -j 8
+$ cd Lonero-Wallet-2.0/
+$ make -j 8
+```
 OR \
 **Create or Connect to a Pool:** 
 
