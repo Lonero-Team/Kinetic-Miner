@@ -26,4 +26,4 @@ OR \
 
 ## Setup Hardware
 **Flash Microcontroller:** For *Chip*, see documentation [here](http://www.chip-community.org/index.php/Documentation) \
-**Node Connectivity:**
+**Node Connectivity:** After installing Chip's operating system, I recommend setting up a local daemon or peer that connects to a local daemon. Then you can configure mining via [upstart](http://upstart.ubuntu.com/) or while the microcomputer is on. Also, you can integrate a basic USB BIOS key or cold storage to store the validated hash for submission/storing.
